@@ -79,7 +79,7 @@
             errorMsg += ': ' + reasons.join(', ');
         }
 
-        throw new Error(errorMsg);
+        //throw new Error(errorMsg);
     }
 
     // --- Utility ---
